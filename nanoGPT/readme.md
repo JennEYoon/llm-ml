@@ -1,1 +1,1 @@
-# Karpathy nano=GPT code  
+# Karpathy nanoGPT code  
