@@ -1,1 +1,4 @@
-# Karpathy nanoGPT code  
+# Karpathy nanoGPT code & my notes  
+
+
+
