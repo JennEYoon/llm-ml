@@ -1,1 +1,90 @@
-
+Comments and links
+-----
+Md Kamruzzaman Kamrul
+6:38 PM
+Does anyone here have experience contributing to an open-source project? I’ve never done it before, but I really want to get involved. Could anyone advise me on how to start? We can connect via LinkedIn to discuss the details later.
+Deborah Gresko
+6:39 PM
+Our new book on the Manning Publications website: https://www.manning.com/books/build-a-large-language-model-from-scratch
+keep
+Pinned
+You
+6:40 PM
+https://youtu.be/_sTDSO74D8Q Video on
+video on using transformers in science, to brainstorm events/possibilities, good if there is a way to independently test accuracy
+Deborah Gresko
+6:40 PM
+If you don't have the book yet, you can purchase and download the pdf of the MEAP.
+Mike H
+6:44 PM
+the book contents are right there on that web page ^^scroll down
+Md Kamruzzaman Kamrul
+6:53 PM
+Hi Deborah, Could you possibly share the link/name of one of the book you mentioned earlier in manning's website on the product development using Ai/ML?
+Ismael Reyes
+6:54 PM
+did the author cover what libraries we might need to install in preparation for the book
+Deborah Gresko
+6:55 PM
+https://www.manning.com/books/llms-in-production
+Md Kamruzzaman Kamrul
+6:55 PM
+thanks a lot!
+Bahar Rezaei
+6:59 PM
+Hi, thanks for having me in this lovely group. I am an academic trying to get into an industry role. I have degrees in Math and information systems. I'm good with ML and stat concepts, my Python and SQL skill level is intermediate, and have done some personal projects using NLP and LLm.
+You
+7:00 PM
+@Ismael Reyes, Yes, the github repo of the book has a very detailed installation guide, for all kinds of use cases and gpu/cpu local.
+You
+7:01 PM
+https://github.com/rasbt/LLMs-from-scratch/tree/main/setup
+Ismael Reyes
+7:01 PM
+thanks. I'd not yet explored the GH
+You
+7:03 PM
+For setup, generally uses Python v 3.10- or v 3.11 and PyTorch v 2.4.0.  Also make sure you don't use Numpy 2.0, latest is v 1.26.4
+Ismael Reyes
+7:07 PM
+thanks again. I'll have to check my versions. I've not used Pytorch before
+Ismael Reyes
+7:19 PM
+does this make sense? "Exception: You tried to install "pytorch". The package named for PyTorch is "torch""
+aren't torch and pytorch two different animals?
+Anthony B
+7:20 PM
+no
+PyTorch is just a reference to Python Torch, where Python is the language and Torch being teh module
+I agree it is confusing
+Ismael Reyes
+7:20 PM
+so pip install torch and not pip install pytorch?
+Anthony B
+7:21 PM
+yes
+Ismael Reyes
+7:21 PM
+thanks
+Anthony B
+7:21 PM
+yw :)
+Mike H
+7:22 PM
+can you share
+Chuba
+7:28 PM
+Did anyone get the
+YouTube link?
+Jason Mitchell
+7:30 PM
+I can find it
+Jason Mitchell
+7:32 PM
+https://www.youtube.com/watch?v=wjZofJX0v4M&t=183s
+Chuba
+7:32 PM
+Thanks
+Charles Stockman
+7:35 PM
+RNN -- https://www.youtube.com/watch?v=dqoEU9Ac3ek
