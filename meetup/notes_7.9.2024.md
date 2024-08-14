@@ -147,20 +147,9 @@ Matthew Kehoe
 7:23 PM
 https://colab.research.google.com/drive/1XnqhZfJzOAx1tBfvao7oufidLcT69Oeq#scrollTo=cc1da863
 
-
 Matthew Kehoe
 8:54 PM
 https://github.com/matthewshawnkehoe/Machine-Learning-in-Python  
 https://github.com/matthewshawnkehoe/Machine-Learning-in-Python/tree/main/NLP_Information_Retrieval_System  
 
-9:13 PM
-abinayaatwork@gmail.com  
-thank you!
-Matthew Kehoe
-9:15 PM
-mskehoe001@gmail.com  
 
-Jason Mitchell
-9:16 PM
-Actually I'm putting my email public anyway because I don't mind anyone reaching out to me.
-jvonmitchell@gmail.com  
