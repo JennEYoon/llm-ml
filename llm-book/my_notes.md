@@ -18,7 +18,7 @@ Use requirements.txt to install libraries after creating a new miniconda environ
 1) Create a new miniconda environment named "llm" and python "3.11" version.   
 `conda create --name llm python=3.11`  
     my env name is "llm"  
-    my python version is "3.11"
+    my python version is "3.11"   
 Activate new conda env `conda activate llm`  
      
 
