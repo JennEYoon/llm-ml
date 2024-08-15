@@ -21,15 +21,13 @@ Use requirements.txt to install libraries after creating a new miniconda environ
 
 3) Git clone from author's repo to your local repo.
    Change directory to new repo folder.  
-```
-   git clone https://github.com/rasbt/LLMs-from-scratch.git
-   cd LLMs-from-scratch
-```   
+   `git clone https://github.com/rasbt/LLMs-from-scratch.git`  
+   `cd LLMs-from-scratch`  
 
-3) install rest of python libraries using requirements.txt or individually using conda install.  
-`which pip` (to check for correct path)  
-`pip install -r requirements.txt`  
-OR use conda, `conda install <libr1> <libr2> ...`  
+3) install rest of python libraries using "requirements.txt" or individually using "conda install."    
+   `which pip` (to check for correct path)  
+   `pip install -r requirements.txt`  
+   OR use conda, `conda install <libr1> <libr2> ...`  
 
 
 
