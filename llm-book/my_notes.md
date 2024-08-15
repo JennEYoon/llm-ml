@@ -14,6 +14,9 @@ Numpy latest 1.x supported, 1.26.4 Feb 2024. v 2.x NOT Supported!
 cuda 12.4 if gpu computer (also supports cuda 11.8, 12.1, 12.4)
 
 Use requirements.txt to install libraries after creating a new miniconda environment.  
+Note, for Windows OS users, recommentd WSL2 install, free from Microsoft App store.  
+
+My steps using miniconda new environment, to local computer:  
 
 1) Create a new miniconda environment named "llm" and python "3.11" version.   
    `conda create --name llm python=3.11`  
