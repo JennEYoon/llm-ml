@@ -16,14 +16,14 @@ cuda 12.4 if gpu computer (also supports cuda 11.8, 12.1, 12.4)
 Use requirements.txt to install libraries after creating a new miniconda environment.  
 
 1) Create a new miniconda environment named "llm" and python "3.11" version.   
-`conda create --name llm python=3.11`  
-Activate new conda env `conda activate llm`  
+   `conda create --name llm python=3.11`  
+   Activate new conda env `conda activate llm`  
 
 3) Git clone from author's repo to your local repo.
    Change directory to new repo folder.  
 ```
-git clone https://github.com/rasbt/LLMs-from-scratch.git
-cd LLMs-from-scratch
+   git clone https://github.com/rasbt/LLMs-from-scratch.git
+   cd LLMs-from-scratch
 ```   
 
 3) install rest of python libraries using requirements.txt or individually using conda install.  
