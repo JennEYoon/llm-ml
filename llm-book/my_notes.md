@@ -1,4 +1,4 @@
-# My Notes, from Raschka, Build LLMs from scratch book
+# My Notes, from Raschka, Build a LLM From Scratch
 
 Book GitHub at https://github.com/rasbt/LLMs-from-scratch
 
