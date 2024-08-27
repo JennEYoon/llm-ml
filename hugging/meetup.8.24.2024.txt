@@ -1,0 +1,68 @@
+# 8.27.2024 Meetup, links
+
+Deborah Gresko
+6:31 PM
+https://huggingface.co/learn/nlp-course/chapter1/2?fw=pt
+keep
+Pinned
+Tonight's session is on the NLP course in HuggingFace - our hands-on learning session series meets on the 4th Tuesday of each month.
+keep
+Pinned
+Bill Jellesma
+6:35 PM
+Thanks Charles, I just requested access to your notes
+Bill Jellesma
+6:41 PM
+My notes https://github.com/bjellesma/Notes/blob/master/HuggingFace/transformer-models.md
+
+Srinivasan G R
+6:41 PM
+Yes, Hi Im srinivasan, I newly joining today
+Raju Kalidindi
+6:43 PM
+Hello I am Raju and newly joining from virginia
+Deborah Gresko
+6:45 PM
+Welcome Srini and Raju!
+Thanks for introducing yourselves.
+sunil mulay
+6:46 PM
+Hello I am Sunil and newly  joining from Virginia
+Raju Kalidindi
+6:46 PM
+Sorry I am in car and listening
+Brij Mair
+6:46 PM
+I am Brij Mair. I am a Tech Program Manager and new to ML
+Deborah Gresko
+6:46 PM
+That's dedication, Raju!
+Welcome, Brij! Glad to have you join us.
+John Fackrell
+6:47 PM
+Hi, I am John from Salt Lake City. First time.
+Jason Sheinkopf
+6:48 PM
+datascY Info, enjoy your trip to Hokkaido!
+David Aron
+6:48 PM
+I deal with AI regulation.  First time here.
+Deborah Gresko
+6:48 PM
+New Book: https://www.manning.com/books/build-a-large-language-model-from-scratch
+keep
+Pinned
+Sang Lee
+6:48 PM
+Hi I am Sang from Virginia, I'm a data consultant/engineer, and trying to learn ML/LLM. This is my first time joining this course.
+Suyash Saxena
+6:48 PM
+Hello My name is Suyash Saxena. I am joining for the first time.
+Jason Sheinkopf
+6:49 PM
+Happy to connect with you all
+https://www.linkedin.com/in/jason-sheinkopf-876a14b/
+Suyash Saxena
+6:52 PM
+yes
+vbh-hoqb-wjh
